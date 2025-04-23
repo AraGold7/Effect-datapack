@@ -1,1 +1,2 @@
-# Effect-datapack-
+# Effect-datapack
+This datapack 
